@@ -41,7 +41,7 @@ En mi repositorio, encontrarás una selección de proyectos en los que he trabaj
 - **[Aplicación de gestión con Vue.js](#)** - Interfaz dinámica para la gestión de recursos.
 - **[Sistema de facturación PDF](#)** - Generación automatizada de PDFs con DomPDF en Laravel.
 --->
----
+<!---
 
 ## 🤝 Conectemos
 
@@ -50,7 +50,7 @@ Si te interesa colaborar o simplemente quieres charlar sobre tecnología, ¡no d
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/albertodpablo/)
 - **GitHub:** [GitHub](https://github.com/lpdadpl)
 
----
+--->
 
 ## 📈 Estadísticas de GitHub
 
