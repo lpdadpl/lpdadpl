@@ -41,7 +41,7 @@ En mi repositorio, encontrarás una selección de proyectos en los que he trabaj
 - **[Aplicación de gestión con Vue.js](#)** - Interfaz dinámica para la gestión de recursos.
 - **[Sistema de facturación PDF](#)** - Generación automatizada de PDFs con DomPDF en Laravel.
 --->
-<!---
+<---
 
 ## 🤝 Conectemos
 
@@ -50,13 +50,13 @@ Si te interesa colaborar o simplemente quieres charlar sobre tecnología, ¡no d
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/albertodpablo/)
 - **GitHub:** [GitHub](https://github.com/lpdadpl)
 
---->
+<!---
 
 ## 📈 Estadísticas de GitHub
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=lpdadpl&show_icons=true&theme=radical)
 
-
+--->
 <!---
 lpdadpl/lpdadpl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
