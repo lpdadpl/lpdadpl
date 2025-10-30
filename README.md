@@ -53,9 +53,9 @@ Currently completing my practical training as part of the Web Applications Devel
 
 ## 🌱 Learning
 I enjoy exploring new technologies and enhancing my skills. Currently focusing on:  
-- **RESTful API Design with Laravel**  
-- **Vue.js SPA integration with Laravel + TypeScript**  
-- **Web performance optimization and best practices**  
+- **AWS**  
+- **Cloud-native Software Engineering**  
+- **Angular**
 
 ---
 
