@@ -61,7 +61,7 @@ I enjoy exploring new technologies and enhancing my skills. Currently focusing o
 
 ## 💼 Projects
 Some projects I’ve worked on during my studies and internships:  
-- **[ArchiveSphere](#)** - A web application for file management and backup automation, developed with Laravel and Vue.js + TypeScript.  
+- **[ArchiveSphere](https://github.com/lpdadpl/Archivesphere.git)** - A web application for file management and backup automation, developed with Laravel and Vue.js + TypeScript.  
 <!-- - **[Vue.js Management App](#)** - Dynamic interface for resource management  
 - **[PDF Billing System](#)** - Automated PDF generation using DomPDF  --> 
 
