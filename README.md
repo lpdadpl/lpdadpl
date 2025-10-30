@@ -15,7 +15,7 @@ Currently completing my practical training as part of the Web Applications Devel
 
 <br>
 <div align="center">
-  <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lpdadpl&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10" alt="lpdadpl" />
 </div>
 
