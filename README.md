@@ -14,11 +14,11 @@ Currently completing my practical training as part of the Web Applications Devel
 </p>
 
 <br>
-<div align="center">
 
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lpdadpl&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10" alt="lpdadpl" />
 </div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpdadpl)](https://github.com/anuraghazra/github-readme-stats)
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <h3 align="center">Web Development</h3>
