@@ -72,4 +72,3 @@ Some projects I’ve worked on during my studies and internships:
 ## 🤝 Connect with me
 If you want to collaborate or just chat about tech:  
 - **LinkedIn:** [Alberto De Pablo](https://www.linkedin.com/in/albertodpablo/)  
-- **GitHub:** [lpdadpl](https://github.com/lpdadpl)
