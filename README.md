@@ -17,7 +17,7 @@ Currently completing my practical training as part of the Web Applications Devel
 
 <div align="center">
 <img align="center" 
-     src="https://github-readme-stats-eight-alpha-30.vercel.app/api/top-langs?username=lpdadpl&theme=dark&layout=donut&langs_count=5&hide=html,css,scss" 
+     src="https://github-readme-stats-eight-alpha-30.vercel.app/api/top-langs?username=lpdadpl&exclude_repo=web-jhk&theme=dark&layout=donut&langs_count=5&hide=html,css,scss,shell,dockerfile" 
      alt="lpdadpl" />
 </div>
 
