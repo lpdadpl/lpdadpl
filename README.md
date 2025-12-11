@@ -2,7 +2,7 @@
 
 <!-- <img width="1584" height="396" alt="Banner" src="/Header.png" /> -->
 ## 🚀 About Me
-Full Stack Web Developer | Dual DAW Student  
+Full Stack Web Developer 
 Currently completing my practical training as part of the Web Applications Development degree (DAW) in dual mode, combining academic learning with real-world experience. I focus on **Laravel** for back-end and **Vue.js + TypeScript** for front-end, building robust and scalable applications.
 
 <br>
