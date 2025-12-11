@@ -26,7 +26,7 @@ Currently completing my practical training as part of the Web Applications Devel
 <h3 align="center">Web Development</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,angular,vue,php,laravel,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,angular,php,laravel,figma&theme=light" />
   </a>
 </p>
 
